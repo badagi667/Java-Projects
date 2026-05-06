@@ -4,6 +4,9 @@ com/example/datatype.class
 com/example/TaskManager.class
 com/example/Searchtask.class
 com/example/TypeConversion.class
+com/example/Dijkstra.class
+com/example/Dijkstra$Edge.class
 com/example/Task.class
 com/example/Linear.class
 com/example/Operator.class
+com/example/Sorting.class

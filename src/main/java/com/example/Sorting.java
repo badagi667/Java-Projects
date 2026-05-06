@@ -71,12 +71,10 @@ public class Sorting {
             while (j >= 0 && arr[j] > key) {
                 arr[j + 1] = arr[j];
                 j--;
+                
             }
             arr[j + 1] = key;
-            for (int num : arr) {
-            System.out.print(num + " "); 
-            }
-            System.out.println(); // New line after each pass
+// New line after each pass
         }
     }
     public static void printArray(int[] arr) {
